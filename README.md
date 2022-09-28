@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiimmykpo
 - 👀 I’m interested in programming and product design
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python 3 & Javascript
 - 💞️ I’m looking to collaborate on Project management and programming
 - 📫 Reach me via email or 09069230687
 
