@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiimmykpo
-- 👀 I’m interested in programming and product design
-- 🌱 I’m currently learning Python 3 & Javascript
-- 💞️ I’m looking to collaborate on Project management and programming
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning IT Automation with Python
+- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning
 - 📫 Reach me via email or 09069230687
 
 <!---
